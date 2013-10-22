@@ -1,7 +1,7 @@
 # Mongo Live
 
-[![Build Status](https://travis-ci.org/cayasso/mongoose-cachebox.png?branch=master)](https://travis-ci.org/cayasso/mongoose-cachebox)
-[![NPM version](https://badge.fury.io/js/mongoose-cachebox.png)](http://badge.fury.io/js/mongoose-cachebox)
+[![Build Status](https://travis-ci.org/cayasso/mongo-live.png?branch=master)](https://travis-ci.org/cayasso/mongo-live)
+[![NPM version](https://badge.fury.io/js/mongo-live.png)](http://badge.fury.io/js/mongo-live)
 
 Listening to MongoDB live changes using oplog.
 
