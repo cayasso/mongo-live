@@ -11,10 +11,6 @@ Listening to MongoDB live changes using oplog.
 $ npm install mongo-live
 ```
 
-## TODO
-
-Add tests.
-
 ## Usage
 
 ``` javascript
@@ -112,6 +108,12 @@ Person.find({ active: true })
 });
 
 ```
+
+## TODO
+
+Add tests.
+
+## Credits
 
 This module use [mongo-watcher](https://github.com/torchlightsoftware/mongo-watcher) for watching the mongodb oplog.
 
