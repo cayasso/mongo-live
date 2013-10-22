@@ -11,6 +11,10 @@ Listening to MongoDB live changes using oplog.
 $ npm install mongo-live
 ```
 
+## TODO
+
+Add tests.
+
 ## Usage
 
 ``` javascript
